@@ -2,6 +2,7 @@
 Mod of Fire Emblem 7: The Blazing Blade, made in Lex Talionis. Made to showcase different gameplay effects and systems. Released on April 1st, 2025.
 
 ![lynsanity_landscape](https://github.com/user-attachments/assets/ad13d0ed-b161-45b5-a3d2-d9d290e37cb6)
+### [Download link to latest version](https://www.dropbox.com/scl/fi/sptpp1579uzq1hag019nw/rekka_no_ken_alternative.zip?rlkey=4wc6yy8kwbygu6b5mcjj7hgja&st=7ad9im50&dl=0)
 ## Features
 - A new gameplay system, momentum, that builds on the weapon triangle
 - New characters
@@ -32,7 +33,6 @@ Fire Emblem is a turn-based tactical RPG developed by Intelligent Systems and pu
 A game made for the GameBoyAdvance, and the first Fire Emblem game to be localized for international audiences.
 
 ## Relevant Links
-### [Download link to latest version](https://www.dropbox.com/scl/fi/sptpp1579uzq1hag019nw/rekka_no_ken_alternative.zip?rlkey=4wc6yy8kwbygu6b5mcjj7hgja&st=7ad9im50&dl=0)
 ### [FEUniverse page](https://feuniverse.us/t/lt-fe7-alternative-complete/31281)
 ### [lt-maker](https://gitlab.com/rainlash/lt-maker)
 ### [Milieu](https://github.com/cadbury-fe/Milieu)
