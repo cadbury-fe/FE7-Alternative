@@ -32,7 +32,7 @@ Fire Emblem is a turn-based tactical RPG developed by Intelligent Systems and pu
 A game made for the GameBoyAdvance, and the first Fire Emblem game to be localized for international audiences.
 
 ## Relevant Links
-
+### [Download link to latest version](https://www.dropbox.com/scl/fi/sptpp1579uzq1hag019nw/rekka_no_ken_alternative.zip?rlkey=4wc6yy8kwbygu6b5mcjj7hgja&st=7ad9im50&dl=0)
 ### [FEUniverse page](https://feuniverse.us/t/lt-fe7-alternative-complete/31281)
 ### [lt-maker](https://gitlab.com/rainlash/lt-maker)
 ### [Milieu](https://github.com/cadbury-fe/Milieu)
